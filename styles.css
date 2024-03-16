@@ -9,6 +9,10 @@ body {
   font-family: "Source Sans 3", sans-serif;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 h1 {
   margin: 0;
 }
